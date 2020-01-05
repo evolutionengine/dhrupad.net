@@ -9,7 +9,7 @@ site_url: "https://www.dhrupad.net"
 # repo_url: "https://github.com/octallium/website"
 
 # Copyright
-copyright: "Copyright &copy; 2020 Anil Kulkarni, Octallium Inc."
+copyright: "Copyright &copy; 2020 Indian School of Music."
 
 # Configuration
 theme:
@@ -18,7 +18,7 @@ theme:
   # logo: "images/brand/octallium-header-logo-white.png"
   logo:
     icon: "queue_music"
-  favicon: "images/brand/octalallium-favicon.png"
+  # favicon: "images/brand/octalallium-favicon.png"
   palette:
     primary: "green"
     accent: "green"
@@ -32,25 +32,25 @@ theme:
 extra:
   # manifest: "manifest.webmanifest"
   social:
-    - type: "github"
-      link: "https://www.github.com/octallium"
-    - type: "youtube"
-      link: "https://www.youtube.com/channel/UCEx4qP4PqDukN_EXMz4dC-Q"
-    - type: "twitter"
-      link: "https://twitter.com/octallium"
-    - type: "facebook"
-      link: "https://www.facebook.com/octallium"
-    - type: "instagram"
-      link: "https://www.instagram.com/octallium"
-    - type: "linkedin"
-      link: "https://www.linkedin.com/company/octallium"
+    # - type: "github"
+    #   link: "https://www.github.com/octallium"
+    # - type: "youtube"
+    #   link: "https://www.youtube.com/channel/UCEx4qP4PqDukN_EXMz4dC-Q"
+    # - type: "twitter"
+    #   link: "https://twitter.com/octallium"
+    # - type: "facebook"
+    #   link: "https://www.facebook.com/octallium"
+    # - type: "instagram"
+    #   link: "https://www.instagram.com/octallium"
+    # - type: "linkedin"
+    #   link: "https://www.linkedin.com/company/octallium"
     - type: "gratipay"
       link: "https://www.octallium.com/"
 
 # Google Analytics
-google_analytics:
-  - "UA-121309781-3"
-  - "auto"
+# google_analytics:
+#   - "UA-121309781-3"
+#   - "auto"
 
 # Plugins
 plugins:
@@ -86,6 +86,8 @@ markdown_extensions:
 # Nav
 nav:
   - Home: "index.md"
+  - Contact:
+      - Contact: "contact.md"
   # - About:
   #     - "About Me": "about/about-me.md"
   #     - "Contributing Content": "about/contribution.md"
