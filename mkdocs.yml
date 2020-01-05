@@ -1,0 +1,122 @@
+# Project information
+site_name: "Dhrupad"
+site_description: "Dhrupad is the oldest and the purest form on Indian Classical Music."
+site_author: "Anil Kulkarni"
+site_url: "https://www.dhrupad.net"
+
+# Repository
+# repo_name: "octallium/website"
+# repo_url: "https://github.com/octallium/website"
+
+# Copyright
+copyright: "Copyright &copy; 2020 Anil Kulkarni, Octallium Inc."
+
+# Configuration
+theme:
+  name: "material"
+  language: "en"
+  # logo: "images/brand/octallium-header-logo-white.png"
+  logo:
+    icon: "queue_music"
+  favicon: "images/brand/octalallium-favicon.png"
+  palette:
+    primary: "green"
+    accent: "green"
+  font:
+    text: "Roboto"
+    code: "Roboto Mono"
+  feature:
+    tabs: true
+
+# Customization
+extra:
+  # manifest: "manifest.webmanifest"
+  social:
+    - type: "github"
+      link: "https://www.github.com/octallium"
+    - type: "youtube"
+      link: "https://www.youtube.com/channel/UCEx4qP4PqDukN_EXMz4dC-Q"
+    - type: "twitter"
+      link: "https://twitter.com/octallium"
+    - type: "facebook"
+      link: "https://www.facebook.com/octallium"
+    - type: "instagram"
+      link: "https://www.instagram.com/octallium"
+    - type: "linkedin"
+      link: "https://www.linkedin.com/company/octallium"
+    - type: "gratipay"
+      link: "https://www.octallium.com/"
+
+# Google Analytics
+google_analytics:
+  - "UA-121309781-3"
+  - "auto"
+
+# Plugins
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+# Extensions
+markdown_extensions:
+  - meta
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: true
+  - toc:
+      permalink: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Nav
+nav:
+  - Home: "index.md"
+  - Python:
+      - Basics:
+          - Introduction: "python/basics/introduction.md"
+          - Installation: "python/basics/installation.md"
+          - Variables: "python/basics/variables.md"
+  - Go:
+      - Getting Started:
+          - "Why Go": "go/getting-started/why-go.md"
+          - "Installation": "go/getting-started/installation.md"
+          - "Editors and IDE": "go/getting-started/editor_ide.md"
+      - Basics:
+          - Introduction: "go/basics/introduction.md"
+          - "01 Hello World": "go/basics/hello-world.md"
+          - "02 Understanding Hello World": "go/basics/hello-world-understand.md"
+          - "03 Adding a Comment": "go/basics/add-comment.md"
+          - "04 Understanding Data Types": "go/basics/basic-data-types.md"
+          - "05 Variables & Constants": "go/basics/variables-constants.md"
+          - "06 Shorthand Declaration": "go/basics/shorthand-declaration.md"
+          - "07 Condition - if/else": "go/basics/if-else.md"
+          - "08 For Loops": "go/basics/for_loops.md"
+          - "09 Function": "go/basics/functions.md"
+          - "10 Packages": "go/basics/packages.md"
+          - "11 Array": "go/basics/array.md"
+          - "12 Slice": "go/basics/slice.md"
+          - "13 Map": "go/basics/map.md"
+  - About:
+      - "About Me": "about/about-me.md"
+      - "Contributing Content": "about/contribution.md"
+      - Donate: "about/donate.md"
+      - Sponsorship: "about/sponsorship.md"
+  - Contact:
+      - Connect: "contact/contact.md"
+  - Subscribe:
+      - Subscribe: "subscribe.md"
