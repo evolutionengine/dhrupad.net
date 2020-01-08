@@ -15,13 +15,13 @@ copyright: "Copyright &copy; 2020 Indian School of Music."
 theme:
   name: "material"
   language: "en"
-  # logo: "images/brand/octallium-header-logo-white.png"
-  logo:
-    icon: "queue_music"
-  # favicon: "images/brand/octalallium-favicon.png"
+  logo: "images/logo-favicon.png"
+  # logo:
+  #   icon: "queue_music"
+  favicon: "images/logo.png"
   palette:
-    primary: "green"
-    accent: "green"
+    primary: "grey"
+    accent: "blue"
   font:
     text: "Roboto"
     code: "Roboto Mono"
@@ -64,7 +64,7 @@ markdown_extensions:
   - admonition
   - codehilite:
       guess_lang: false
-      linenums: true
+      # linenums: true
   - toc:
       permalink: true
   - pymdownx.betterem:
