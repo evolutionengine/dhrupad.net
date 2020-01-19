@@ -4,7 +4,7 @@ We plan to organize a Dhrupad Festival every year in the memory of **Ustad Zia F
 
 ## 1st Chembur Dhrupad Festival - Feb 9th, 2020
 
-We are happy to announce the first "Chembur Dhrupad Festival" to be held on Feb 9th, 2020 at Balvikas Sangh Hall, Bal Vikas Sangh Marg, Near Gandhi Maidan, Chembur, Mumbai, Maharashtra 400071.
+We are happy to announce the first **"Chembur Dhrupad Festival"** to be held on **Feb 9th, 2020** from **9.30 am - 1.00** pm at **Balvikas Sangh Hall**, Bal Vikas Sangh Marg, Near Gandhi Maidan, Chembur, Mumbai, Maharashtra 400071.
 
 <img src="../../images/poster-2020-front.png" height="475"/>
 <img src="../../images/poster-2020-back.png" height="475" />
