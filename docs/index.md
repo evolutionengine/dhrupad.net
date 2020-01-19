@@ -3,9 +3,7 @@ description: Dhrupad is the oldest and the purest form of Indian Classical Music
 
 # Welcome!
 
-![Banner](./images/ustads.jpg)
-
-(Ustad Z M Dagar & Ustad Z F Dagar during the shooting of a documentary on Dhrupad)
+![Banner](./images/ragamala.jpg)
 
 ## Dhrupad - An Introduction
 

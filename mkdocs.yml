@@ -86,12 +86,15 @@ markdown_extensions:
 # Nav
 nav:
   - Home: "index.md"
+  - About:
+      - "About Us": "about/about.md"
+      - Donate: "about/donation.md"
+      - "Thank You": "about/thankyou.md"
   - "Dhrupad Festival":
       - "Chembur Dhrupad Festival": "festival/chembur-fest.md"
   - Contact:
       - Contact: "contact/contact.md"
       - "Privacy Policy": "contact/privacy-policy.md"
-  # - About:
   #     - "About Me": "about/about-me.md"
   #     - "Contributing Content": "about/contribution.md"
   #     - Donate: "about/donate.md"
