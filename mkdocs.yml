@@ -88,8 +88,9 @@ nav:
   - Home: "index.md"
   - About:
       - "About Us": "about/about.md"
-      - Donate: "about/donation.md"
-      - "Thank You": "about/thankyou.md"
+  - Donate:
+      - Donation: "donate/donation.md"
+      - "Thank You": "donate/thankyou.md"
   - "Dhrupad Festival":
       - "Chembur Dhrupad Festival": "festival/chembur-fest.md"
   - Contact:

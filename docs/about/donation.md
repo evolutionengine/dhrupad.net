@@ -1,1 +1,0 @@
-# Donate to Dhrupad.net
