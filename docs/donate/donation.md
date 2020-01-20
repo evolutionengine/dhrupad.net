@@ -11,3 +11,5 @@ You can always donate in cash, kind, time or volunteer to take up any activity.
 You can donate any desired amount by clicking the following button - 
 
 <div class='pm-button'><a href='https://www.payumoney.com/paybypayumoney/#/F0EA8D9534AB33D8712FE931488EE5CF'><img src='https://www.payumoney.com/media/images/payby_payumoney/new_buttons/22.png' /></a></div> 
+
+(_Please use Chrome, currently Firefox and Safari are not supported._)
