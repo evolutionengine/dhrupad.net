@@ -93,6 +93,8 @@ nav:
       - "Thank You": "donate/thankyou.md"
   - "Dhrupad Festival":
       - "Chembur Dhrupad Festival": "festival/chembur-fest.md"
+  - Articles:
+      - Grama: "articles/grama.md"
   - Contact:
       - Contact: "contact/contact.md"
       - "Privacy Policy": "contact/privacy-policy.md"
