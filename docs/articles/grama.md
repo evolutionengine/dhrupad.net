@@ -1,5 +1,8 @@
 # The ancient Grāma system & the concept of Prāmana (standard) Shruti
 
+![Banner](../images/zmdagar.jpg)
+(Ustad Z M Dagar in his natural state)
+
 Generally speaking musical forms, styles, names & terminology change but there are certain
 fundamental musical principals which never change i.e. the law of consonance or Samvāda.
 Again the usage of the term Samvādi may change but the interval representing Samvadā or
